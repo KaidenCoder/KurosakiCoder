@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="KurosakiCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="khaidemsandip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="Kurosakicoder | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />]
+[<img align="left" alt="KurosakiCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KurosakiCoder)
+[<img align="left" alt="khaidemsandip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/khaidemsandip/)
+[<img align="left" alt="Kurosakicoder | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/Kurosakicoder/)
 
 <br />
 

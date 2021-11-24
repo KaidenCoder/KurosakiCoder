@@ -2,7 +2,7 @@
 
 ## I am a Developer and Coding Instructor!!
 
-- 🧙‍♀️ I am a Coding Instructor at [Campk12](https://campk12.com/)
+- 🧙‍♀️ I am a Front End Developer at [Refixd.com](https://refixd.com/)
 - 💪 I love coding challenges in [Leetcode](https://leetcode.com/)
 - 🤝 I love to connect with the online [Coding Community event](https://scrimba.com/) and take an active part in it.
 - 💻 I focus mainly on ReactJs web development and try to solve as many coding challenges as I can
